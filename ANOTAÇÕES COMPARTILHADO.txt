@@ -1,0 +1,266 @@
+
+
+SHIFT + F5
+ENTRAR NA TELA ADMINISTRAÇÃO DO SISTEMA
+
+F11 = FILTROS
+
+CRTL + SHIFT + BACKSPACE
+FORÇAR O TASY A TRAZER MAIS INFORMAÇÕES QUE O NORMAL, 1 PARA ATIVAR 0 PARA DESATIVAR
+
+SHIFT + F8
+VER TRIBUTO DO CAMPO
+
+CRTL + SHIFT + F
+ESCOLHER FUNÇÃO NO SISTEMA
+
+SHIFT + F11
+IR PARA FUNÇÃO CADASTROS GERAIS
+
+CRTL
+
+ALT (N) = NOVO
+ALT (E) = EXCLUIR
+ALT (F) = FECHAR
+ALT (I) = IMPRIMIR
+ALT (V) = VISUALIZAR
+ALT (G) = GRID
+ALT (H) = DETALHE
+ALT (S) = SALVAR
+ALT (D) = DESFAZER
+
+LOGIN VNC
+tivnc
+hmj@#2020
+_______________________________________________________________________
+ETAPAS:
+
+TUDO QUE FOR PEP TEM QUE SER LIBERADO
+
+PASSO A PASSO:
+1- PESQUISAR O ITEM
+2- LIBERAR
+3- ADEP
+4- VERIFICAR NO REP
+_______________________________________________________________________
+
+SHIFT + F11 > CADASTROS GERAIS > ETAPAS > APLICAÇÃO PRINCIPAL >
+> FATURAMENTO/SETOR > ETAPA > SELECIONAR REGRA > REGRA RESPONSÁVEL > NOME
+
+_______________________________________________________________________
+
+FUNÇÃO > RELATÓRIO > NOME/COD > 2 CLICKS > RELATÓRIO X PERFIL >
+> NOVO > PERFIL > IMPRIMIR > SALVAR > HISTÓRICO > AGUARDANDO RETORNO USUÁRIO
+
+_______________________________________________________________________
+
+ENVIAR O.S VIA WEB SERVICE
+
+BOTÃO DIREITO > ENVIAR OS VIA WEB SERVICE
+
+SELECIONAR FUNÇÃO> CLASSIFICAÇÃO > PRIORIDADE > VERSÃO DO TASY > PACOTE = 2ULTNUMBER
+> DELPHI > AMBIENTE PRODUÇÃO
+
+HISTÓRICO PHILLIPS
+
+HISTÓRICO > SALVAR > ENVIAR WS
+
+_______________________________________________________________________
+
+SHIFT + F5 > PARAMETRÔS > 2 CLICKS > APLICAÇÃO PRINCIPAL > FUNÇÕES >
+> CLICK DIREITO > GERAR XML
+
+_______________________________________________________________________
+
+Rouparia admin > Lote de movimentação > Lote de Roupa > Roupa 
+> Rastreabilidade >  > bt.D desfazer/estornar
+
+_______________________________________________________________________
+Liberar Função para Perfil
+Adm > Perfis > Cadastro de Perfil Selecionar Perfil que vc quer a função > Funções > achar função BD > Selecionar
+_______________________________________________________________________
+
+Parametros função da Prescrição
+Apresentar uma Pasta todos os itens
+apresentar um grafico
+a definição de um
+
+Alternativa Correta
+o parametro que define a regra
+
+_______________________________________________________________________
+PROBLEMA ADEP MOSTRANDO PROCEDIMENTO
+
+ Exames e procedimentos Internos > Procedimento > anotar Numero > Relatório > Criar Versão >
+ > Adicionar junto com os outros procedimentos > somente nos Pais
+ 
+_______________________________________________________________________
+APLICAR SETOR PARA VÁRIOS USUÁRIOS 
+ 
+INSERT INTO USUARIO_SETOR values ('USUÁRIO', SETOR, SYSDATE, 'SRFERRAREIS');
+
+SELECT DISTINCT
+CD_SETOR_ATENDIMENTO, 
+substr(obter_nome_setor(cd_setor_atendimento),1,100) SETOR
+FROM USUARIO_SETOR
+_______________________________________________________________________
+CRIAR AGENDA DE CONSULTAS
+
+Agenda de consultas
+Aba configurações 
+Médico que tenha especialidade similar
+Detalhe
+Similar e batendo esta sendo criado
+Permissões 
+Criar turno 30m
+Forma de agendamento
+
+Eduardo Luz Santos
+ortopedia e traumatologia
+ambulatorio
+_______________________________________________________________________
+
+LIBERAÇÃO ABA
+ADM > PERFIS > CÓPIA DE PERFIL > PERFIL ORIGEM > DESTINO > FUNÇÃO/ABA
+
+_______________________________________________________________________
+
+CERTIFICADO DIGITAL
+ADM > USUÁRIO > DETALHE > CERTIFICADO DIGITAL, VALIDADE DIGITAL EMISSÃO DIGITAL.
+
+ti@hospitaljaragua.org.br
+
+_______________________________________________________________________
+
+Caso o Exame Não Aparecer > Botão Direito Mostrar todos do PACIENTE
+_______________________________________________________________________
+Login BeeHome
+Crachá
+Hosp@Jaragua22
+
+Disco local c > tasy 
+10.11.2.19
+
+\\hmjksc antivírus
+\\hmj-fileserver
+\\hmjprint01 impressoras 🖨
+_______________________________________________________________________
+Transferencia de Gasto
+Verificar se vc tem o setor em questão liberado >
+Perfil Faturamento Convenio > Movimentação de Pacientes > Transferencia de Gasto > Origem,Destino > Transferir 
+> Excluir Movimentação
+_______________________________________________________________________
+Relatório
+
+Gerenciador de Relatório > Novo > Nome, Classif, SQL > Banda > Banda Relatório 
+> Criar Bandas SQL > Criar Campos SQL > Ajustar e Arrumar
+_______________________________________________________________________
+Quando é para dar alta e transferem de setor, movimentação de paciente faturamento,
+
+Somente com O.S Transferência de gasto quando não puder excluir setor
+Transferir e tentar excluir
+_______________________________________________________________________
+Tasy Real
+
+entrada unica de paciente, alterar data de vigencia
+caso não der para transferir um atendimento
+e aparecer um erro de data de vigencia
+_______________________________________________________________________
+Não Está Liberando
+
+Detalhe do Item > Modificar > Hora Antes do Termino > LIBERAR > Estender
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+O.S PARA PHILLPIS
+
+Aguardando Philips
+Novo o.s
+Equipamento 4
+Descrição completa e detalhada
+Caso tiver print onde mostre os dados do paciente Remover todos os dados visíveis 
+
+F7 vincula oq vc tem copiado nos anexos
+
+Swift f7 na função abre os parâmetros daquela função e depois apertar f7 para gerar o XML deles anexar
+
+Enviar WS
+_______________________________________________________________________
+
+Quando Houver Várias Contas e Quiser Unificar
+Conta Paciente > BTD Direito > Transferir de Conta
+_______________________________________________________________________
+
+SND = NUTRIÇÃO | **3055
+_______________________________________________________________________
+
+Protocolar
+Cadastros gerais > etapa > Aplicação principal > Faturamento > Etapas para Faturamento Conta > Etapa > Regra Responsável
+
+_______________________________________________________________________
+
+Adm > função > parâmetros > Rep > 
+
+Ver se os atendimentos estão sem alta > transferência > ajusta o erro > transferência > (bater print dados) Conferir dados > voltar datas antigas > fazer a alta
+
+Mexer Relatório
+Parâmetro > Gerenciador de Relatório >
+> 3 permitir alterar excluir relatório
+
+Junção cadastro
+Função > cadastro completo de pessoas internação recepção > ação > pacientes > transferência > Ocorrências 
+> Transferir
+_______________________________________________________________________
+
+Faturamento convênio > Movimentação de pacientes > transferência de gasto > destino origem > Transferir 
+
+Adep > Atendimento > gasoterapia se for oxigênio > Abrir no Rep > Verificar se não foi informado 
+ou foi suspenso > médico internação Rep PT > atendimento > data > Verificar se foi suspendido > 
+
+Parâmetros > Descrição (temp) > sistema > Menu do Sistema > Tempo de espera efetuar logof 
+(apenas Médico e farmácia)
+
+_______________________________________________________________________
+
+Enviar O.S Philips
+
+Aguardando Philips
+Novo o.s
+Equipamento 4
+Descrição completa e detalhada
+Caso tiver print onde mostre os dados do paciente Remover todos os dados visíveis 
+
+F7 vincula oq vc tem copiado nos anexos
+
+Swift f7 na função abre os parâmetros daquela função e depois apertar f7 para gerar o XML deles anexar
+
+Enviar WS
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
+
+
+_______________________________________________________________________
