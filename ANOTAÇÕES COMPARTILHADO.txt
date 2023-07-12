@@ -157,7 +157,7 @@ Gerenciador de Relatório > Novo > Nome, Classif, SQL > Banda > Banda Relatório
 _______________________________________________________________________
 Quando é para dar alta e transferem de setor, movimentação de paciente faturamento,
 
-Somente com O.S Transferência de gasto quando não puder excluir setor
+(Somente com O.S) Transferência de gasto quando não puder excluir setor
 Transferir e tentar excluir
 _______________________________________________________________________
 Tasy Real
